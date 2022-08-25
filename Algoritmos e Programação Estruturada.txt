@@ -1,0 +1,24 @@
+Algoritmo
+- É a sequência finita de instruções para se resolver um problema.
+
+Exemplo:
+Problema - Lavar roupa suja
+Algoritmo:
+1- Colocar a roupa em um recipiente;
+2- Colocar um pouco de sabão e amaciante;
+3- Encher de água;
+4- Mexer tudo até dissolver todo sabão;
+5- Deixar de molho por vinte minutos;
+6- Esfregar a roupa;
+7- Torcer.
+
+Automação, o que é?
+- Consiste em utilizar máquinas para executar o procedimento desejado de forma automática ou semiautomática.
+ * Computador (automação)
+- Hardware e Software;
+- Software: Sistema operacional, aplicativos, jogos, utilitários.
+
+O que é preciso para se fazer um programa de computador?
+- Linguagem de programação (Python, C#, Rubi, C++, Javascript, etc.);
+- Uma I.D.E Software para transformar o código fonte em código;
+- Um gerador de código ou máquina virtual: Software que precisa que o programa seja executado.
